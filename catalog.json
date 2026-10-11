@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "tesseract",
+      "version": "5.5.3.20260724",
+      "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/tesseract-ocr-w64-setup-5.5.3.20260724.exe",
+      "sha256": "bee9e3434bd94fd65387d9be28cd467a41f61b1275383b55b0f59a1331270ae4"
+    },
+    {
+      "id": "exiftool",
+      "version": "13.59",
+      "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/exiftool-13.59_64.zip",
+      "sha256": "44b512b25af500724ba579d0a53c8fc5851628b692dd5e5d94ae4a15c2cba9ec"
+    },
+    {
+      "id": "poppler",
+      "version": "26.09.0-0",
+      "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/Release-26.09.0-0.zip",
+      "sha256": "7a6f256a0ddf7536182246a5733331bf4677cbcc34f4663774947ad34556c8d0"
+    },
+    {
+      "id": "ffprobe",
+      "version": "9.0.2",
+      "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/ffmpeg-9.0.2-essentials_build.zip",
+      "sha256": "60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba"
+    }
+  ]
+}
