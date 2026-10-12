@@ -5,31 +5,46 @@
       "id": "tesseract",
       "version": "5.5.3.20260724",
       "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/tesseract-ocr-w64-setup-5.5.3.20260724.exe",
-      "sha256": "bee9e3434bd94fd65387d9be28cd467a41f61b1275383b55b0f59a1331270ae4"
+      "sha256": "bee9e3434bd94fd65387d9be28cd467a41f61b1275383b55b0f59a1331270ae4",
+      "sourceId": "TESSERACT-UPSTREAM",
+      "sourceType": "publisher",
+      "sourceDirectUrl": "https://github.com/tesseract-ocr/tesseract/releases/download/5.5.3/tesseract-ocr-w64-setup-5.5.3.20260724.exe"
     },
     {
       "id": "exiftool",
       "version": "13.59",
       "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/exiftool-13.59_64.zip",
-      "sha256": "44b512b25af500724ba579d0a53c8fc5851628b692dd5e5d94ae4a15c2cba9ec"
+      "sha256": "44b512b25af500724ba579d0a53c8fc5851628b692dd5e5d94ae4a15c2cba9ec",
+      "sourceId": "EXIFTOOL-PUBLISHER",
+      "sourceType": "publisher-via-sourceforge",
+      "sourceDirectUrl": "https://sourceforge.net/projects/exiftool/files/exiftool-13.59_64.zip/download"
     },
     {
       "id": "poppler",
       "version": "26.09.0-0",
       "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/Release-26.09.0-0.zip",
-      "sha256": "7a6f256a0ddf7536182246a5733331bf4677cbcc34f4663774947ad34556c8d0"
+      "sha256": "7a6f256a0ddf7536182246a5733331bf4677cbcc34f4663774947ad34556c8d0",
+      "sourceId": "POPPLER-WIN-DIST",
+      "sourceType": "third-party-windows-distributor",
+      "sourceDirectUrl": "https://github.com/oschwartz10612/poppler-windows/releases/download/v26.09.0-0/Release-26.09.0-0.zip"
     },
     {
       "id": "ffprobe",
       "version": "9.0.2",
       "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/ffmpeg-9.0.2-essentials_build.zip",
-      "sha256": "60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba"
+      "sha256": "60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba",
+      "sourceId": "FFMPEG-WIN-DIST",
+      "sourceType": "third-party-windows-distributor-referenced-by-ffmpeg",
+      "sourceDirectUrl": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-9.0.2-essentials_build.zip"
     },
     {
       "id": "jan",
       "version": "0.8.6",
       "url": "https://github.com/grg914/OSINT-Manager-Outbuildings/releases/download/dependencies-v1/Jan_0.8.6_x64-setup.exe",
-      "sha256": "f47f2d205eb92743bdd60ffe7d3b7b434b45a97a8dce092c1185c97d1f5a5268"
+      "sha256": "f47f2d205eb92743bdd60ffe7d3b7b434b45a97a8dce092c1185c97d1f5a5268",
+      "sourceId": "JAN-PUBLISHER",
+      "sourceType": "publisher",
+      "sourceDirectUrl": "https://github.com/janhq/jan/releases/download/v0.8.6/Jan_0.8.6_x64-setup.exe"
     }
   ]
 }
